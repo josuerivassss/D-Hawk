@@ -172,7 +172,7 @@
     "languageLabel": "Language",
     "hero": {
       "title": "Placeholders",
-      "subtitle": "Dynamic text you can drop into welcome messages, leave messages, tags, and ticket messages -- resolved live every time Commie sends them."
+      "subtitle": "Dynamic text you can drop into welcome messages, leave messages, tags, and ticket messages -- resolved live every time Hawk sends them."
     },
     "nav": {
       "gettingStarted": "Getting started",
@@ -183,9 +183,9 @@
     },
     "gettingStarted": {
       "title": "Getting started",
-      "p1": "A placeholder is a small piece of text wrapped in curly braces, like {user.mention}, that Commie replaces with real information the moment a message is sent -- who joined, which server, how many members it has, and more.",
+      "p1": "A placeholder is a small piece of text wrapped in curly braces, like {user.mention}, that Hawk replaces with real information the moment a message is sent -- who joined, which server, how many members it has, and more.",
       "p2": "You'll find them in four places: the welcome message (/welcome message), the leave message (/leave message), tag content (/tag create and /tag update), and a ticket's opening message (/ticket message). Any command tagged \"Placeholders available\" on the Commands page supports everything on this guide.",
-      "p3": "You don't need to write any code -- just type the placeholder where you want the value to appear, save the command, and Commie fills it in automatically."
+      "p3": "You don't need to write any code -- just type the placeholder where you want the value to appear, save the command, and Hawk fills it in automatically."
     },
     "syntax": {
       "title": "Syntax",
@@ -202,7 +202,7 @@
     },
     "reference": {
       "title": "Placeholders",
-      "subtitle": "Every placeholder Commie currently understands, grouped by what it does.",
+      "subtitle": "Every placeholder Hawk currently understands, grouped by what it does.",
       "categories": {
         "user": "User",
         "guild": "Server",

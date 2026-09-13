@@ -231,7 +231,7 @@ export default function EmbedSender() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `commie-embed-${Date.now()}.json`;
+    a.download = `hawk-embed-${Date.now()}.json`;
     a.click();
     URL.revokeObjectURL(url);
   }

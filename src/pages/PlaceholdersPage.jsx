@@ -8,7 +8,7 @@ import { PLACEHOLDER_CATEGORIES, PLACEHOLDERS } from "../placeholders/data";
 import CodeBlock from "../components/placeholders/CodeBlock";
 import PlaceholderCard from "../components/placeholders/PlaceholderCard";
 
-const STORAGE_KEY = "commie:placeholders-language";
+const STORAGE_KEY = "hawk:placeholders-language";
 const APPLICATION_KEYS = ["welcome", "leave", "tags", "tickets"];
 
 const APPLICATION_EXAMPLES = {

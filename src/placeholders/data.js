@@ -26,7 +26,7 @@ export const PLACEHOLDERS = [
   { key: "embed.title", category: "embed", type: "function", args: ["title"], descKey: "embedTitle", syntax: "{embed.title:Welcome!}" },
   { key: "embed.description", category: "embed", type: "function", args: ["description"], descKey: "embedDescription", syntax: "{embed.description:Enjoy your stay.}" },
   { key: "embed.color", category: "embed", type: "function", args: ["hex"], descKey: "embedColor", syntax: "{embed.color:23a55a}" },
-  { key: "embed.footer", category: "embed", type: "function", args: ["text"], descKey: "embedFooter", syntax: "{embed.footer:Powered by Commie}" },
+  { key: "embed.footer", category: "embed", type: "function", args: ["text"], descKey: "embedFooter", syntax: "{embed.footer:Powered by Hawk}" },
   { key: "embed.image", category: "embed", type: "function", args: ["url"], descKey: "embedImage", syntax: "{embed.image:https://...}" },
   { key: "embed.thumbnail", category: "embed", type: "function", args: ["url"], descKey: "embedThumbnail", syntax: "{embed.thumbnail:{user.avatar}}" },
   { key: "embed.field", category: "embed", type: "function", args: ["name", "value", "inline"], descKey: "embedField", syntax: "{embed.field:Rank;#4;true}" },

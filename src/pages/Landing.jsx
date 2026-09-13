@@ -8,7 +8,7 @@ import Footer from "../components/Footer";
 const AUTO_ADVANCE_MS = 5000;
 
 const BOTS = [
-  { key: "commie", label: "Commie" },
+  { key: "hawk", label: "Hawk" },
   { key: "mee6", label: "MEE6" },
   { key: "dyno", label: "Dyno" },
   { key: "carlbot", label: "Carl-bot" },
@@ -16,19 +16,19 @@ const BOTS = [
 ];
 
 const FEATURES = [
-  { name: "Moderation", commie: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
-  { name: "Custom commands", commie: "note:Tags", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "note:Limited" },
-  { name: "Starboard", commie: "yes", mee6: "no", dyno: "yes", carlbot: "yes", probot: "no" },
-  { name: "Welcome & Leave", commie: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
-  { name: "Autoroles", commie: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
-  { name: "Multilanguage", commie: "yes", mee6: "yes", dyno: "no", carlbot: "no", probot: "no" },
-  { name: "Dashboard", commie: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
-  { name: "Tickets", commie: "yes", mee6: "no", dyno: "yes", carlbot: "no", probot: "no" },
+  { name: "Moderation", hawk: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
+  { name: "Custom commands", hawk: "note:Tags", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "note:Limited" },
+  { name: "Starboard", hawk: "yes", mee6: "no", dyno: "yes", carlbot: "yes", probot: "no" },
+  { name: "Welcome & Leave", hawk: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
+  { name: "Autoroles", hawk: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
+  { name: "Multilanguage", hawk: "yes", mee6: "yes", dyno: "no", carlbot: "no", probot: "no" },
+  { name: "Dashboard", hawk: "yes", mee6: "yes", dyno: "yes", carlbot: "yes", probot: "yes" },
+  { name: "Tickets", hawk: "yes", mee6: "no", dyno: "yes", carlbot: "no", probot: "no" },
 ];
 
 const SCREENSHOTS = [
   { seed: "greetings", title: "Welcome & Autoroles" },
-  // { seed: "commie-moderation", title: "Moderation" },
+  // { seed: "hawk-moderation", title: "Moderation" },
   { seed: "starboard", title: "Starboard" },
   { seed: "tickets", title: "Tickets" },
   { seed: "dashboard", title: "Dashboard" },
@@ -116,8 +116,8 @@ export default function Landing() {
       <Header user={null} />
       <div className="landing-hero">
         <HeroPattern />
-        <img className="logo" src="/logo-square.png" alt="Commie logo" />
-        <h1>Commie</h1>
+        <img className="logo" src="/logo-square.jpg" alt="Hawk logo" />
+        <h1>Hawk</h1>
         <p className="tagline">
           A friendly, all-in-one Discord bot for moderation, welcomes, starboard, reminders and more.
         </p>
@@ -138,7 +138,7 @@ export default function Landing() {
 
       <section className="about-section">
         <p>
-          Commie is an aio (all-in-one) bot for Discord: moderation, tags, starboard, welcome and goodbye messages, autoroles, and a web dashboard, all in one bot. Built to be powerful and scalable, it works just as well on a small server as on one with thousands of members.
+          Hawk is an aio (all-in-one) bot for Discord: moderation, tags, starboard, welcome and goodbye messages, autoroles, and a web dashboard, all in one bot. Built to be powerful and scalable, it works just as well on a small server as on one with thousands of members.
         </p>
       </section>
 

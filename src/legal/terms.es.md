@@ -1,10 +1,10 @@
 ## 1. Aceptación de estos Términos
 
-Al agregar Commie ("el Servicio") a un servidor de Discord, usar sus comandos, o iniciar sesión en su dashboard web complementario ("el Servicio Web"), aceptas quedar sujeto a estos Términos de Servicio. Si no estás de acuerdo, no uses el Servicio.
+Al agregar Hawk ("el Servicio") a un servidor de Discord, usar sus comandos, o iniciar sesión en su dashboard web complementario ("el Servicio Web"), aceptas quedar sujeto a estos Términos de Servicio. Si no estás de acuerdo, no uses el Servicio.
 
 ## 2. Descripción del Servicio
 
-Commie es un bot de Discord que ofrece herramientas de moderación, tags personalizados, starboard, mensajes de bienvenida/despedida, autoroles, recordatorios, un sistema de tickets y un constructor de embeds. El Servicio Web es un complemento opcional y solo por invitación para configurar estas funciones desde un navegador en vez de comandos de Discord.
+Hawk es un bot de Discord que ofrece herramientas de moderación, tags personalizados, starboard, mensajes de bienvenida/despedida, autoroles, recordatorios, un sistema de tickets y un constructor de embeds. El Servicio Web es un complemento opcional y solo por invitación para configurar estas funciones desde un navegador en vez de comandos de Discord.
 
 ## 3. Contenido de Mensajes
 
@@ -18,7 +18,7 @@ El Servicio Web se autentica exclusivamente mediante el flujo oficial OAuth2 de 
 
 ## 5. Acceso al Servicio Web
 
-El acceso para configurar un servidor específico mediante el Servicio Web es solo por invitación, otorgado individualmente por el propietario/administrador del bot en ese servidor. Tener una cuenta de Discord o ser miembro de un servidor que use Commie no otorga por sí solo acceso al Servicio Web.
+El acceso para configurar un servidor específico mediante el Servicio Web es solo por invitación, otorgado individualmente por el propietario/administrador del bot en ese servidor. Tener una cuenta de Discord o ser miembro de un servidor que use Hawk no otorga por sí solo acceso al Servicio Web.
 
 ## 6. Uso Aceptable
 

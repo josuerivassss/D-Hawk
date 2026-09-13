@@ -1,6 +1,6 @@
 import { api } from "./api";
 
-const STORAGE_KEY = "bcommie_token";
+const STORAGE_KEY = "bhawk_token";
 
 export function getToken() {
   return localStorage.getItem(STORAGE_KEY);

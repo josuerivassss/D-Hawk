@@ -57,9 +57,9 @@ export default function EmbedPreview({ content, embeds }) {
   return (
     <div className="embed-preview">
       <div className="embed-preview-message-header">
-        <img className="embed-preview-avatar" src="/logo-square.png" alt="" />
+        <img className="embed-preview-avatar" src="/logo-square.jpg" alt="" />
         <div>
-          <span className="embed-preview-bot-name">Commie</span>
+          <span className="embed-preview-bot-name">Hawk</span>
           <span className="embed-preview-bot-tag">APP</span>
         </div>
       </div>

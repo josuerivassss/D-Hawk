@@ -172,7 +172,7 @@
     "languageLabel": "Idioma",
     "hero": {
       "title": "Placeholders",
-      "subtitle": "Texto dinámico que puedes usar en mensajes de bienvenida, despedida, tags y mensajes de tickets -- se resuelve en tiempo real cada vez que Commie los envía."
+      "subtitle": "Texto dinámico que puedes usar en mensajes de bienvenida, despedida, tags y mensajes de tickets -- se resuelve en tiempo real cada vez que Hawk los envía."
     },
     "nav": {
       "gettingStarted": "Introducción",
@@ -183,9 +183,9 @@
     },
     "gettingStarted": {
       "title": "Introducción",
-      "p1": "Un placeholder es un pequeño fragmento de texto entre llaves, como {user.mention}, que Commie reemplaza con información real en el momento en que se envía un mensaje: quién se unió, en qué servidor, cuántos miembros tiene, y más.",
+      "p1": "Un placeholder es un pequeño fragmento de texto entre llaves, como {user.mention}, que Hawk reemplaza con información real en el momento en que se envía un mensaje: quién se unió, en qué servidor, cuántos miembros tiene, y más.",
       "p2": "Los encontrarás en cuatro lugares: el mensaje de bienvenida (/welcome message), el mensaje de despedida (/leave message), el contenido de los tags (/tag create y /tag update), y el mensaje de apertura de un ticket (/ticket message). Cualquier comando marcado con \"Placeholders available\" en la página de Comandos soporta todo lo de esta guía.",
-      "p3": "No necesitas escribir código -- solo coloca el placeholder donde quieras que aparezca el valor, guarda el comando, y Commie lo completa automáticamente."
+      "p3": "No necesitas escribir código -- solo coloca el placeholder donde quieras que aparezca el valor, guarda el comando, y Hawk lo completa automáticamente."
     },
     "syntax": {
       "title": "Sintaxis",
@@ -202,7 +202,7 @@
     },
     "reference": {
       "title": "Placeholders",
-      "subtitle": "Todos los placeholders que Commie entiende actualmente, agrupados por lo que hacen.",
+      "subtitle": "Todos los placeholders que Hawk entiende actualmente, agrupados por lo que hacen.",
       "categories": {
         "user": "Usuario",
         "guild": "Servidor",

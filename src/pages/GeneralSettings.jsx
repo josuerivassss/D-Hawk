@@ -113,7 +113,7 @@ export default function GeneralSettings() {
           <input
             type="text"
             maxLength={LIMITS.NICKNAME_MAX}
-            placeholder="Commie"
+            placeholder="Hawk"
             value={config.nickname}
             disabled={!canChangeNickname}
             onChange={(e) => setConfig({ ...config, nickname: e.target.value })}

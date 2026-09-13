@@ -1,6 +1,6 @@
 ## 1. Quiénes Somos
 
-Esta Política de Privacidad describe cómo Commie ("el Servicio") y su dashboard web complementario ("el Servicio Web") recolectan, usan y almacenan información.
+Esta Política de Privacidad describe cómo Hawk ("el Servicio") y su dashboard web complementario ("el Servicio Web") recolectan, usan y almacenan información.
 
 ## 2. Información que Recolectamos
 

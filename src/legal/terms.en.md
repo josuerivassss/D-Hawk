@@ -1,10 +1,10 @@
 ## 1. Acceptance of These Terms
 
-By adding Commie ("the Service") to a Discord server, using its commands, or logging into its companion web dashboard ("the Web Service"), you agree to be bound by these Terms of Service. If you do not agree, do not use the Service.
+By adding Hawk ("the Service") to a Discord server, using its commands, or logging into its companion web dashboard ("the Web Service"), you agree to be bound by these Terms of Service. If you do not agree, do not use the Service.
 
 ## 2. Description of the Service
 
-Commie is a Discord bot providing moderation tools, custom tags, starboard, welcome/leave messages, autoroles, reminders, a ticket system, and an embed builder. The Web Service is an optional, invite-only companion for configuring these features through a browser instead of Discord commands.
+Hawk is a Discord bot providing moderation tools, custom tags, starboard, welcome/leave messages, autoroles, reminders, a ticket system, and an embed builder. The Web Service is an optional, invite-only companion for configuring these features through a browser instead of Discord commands.
 
 ## 3. Message Content
 
@@ -18,7 +18,7 @@ The Web Service authenticates exclusively through Discord's official OAuth2 flow
 
 ## 5. Web Service Access
 
-Access to configure a specific server's settings through the Web Service is invite-only and granted individually by that server's bot owner/administrator. Holding a Discord account or being a member of a server that uses Commie does not by itself grant you Web Service access.
+Access to configure a specific server's settings through the Web Service is invite-only and granted individually by that server's bot owner/administrator. Holding a Discord account or being a member of a server that uses Hawk does not by itself grant you Web Service access.
 
 ## 6. Acceptable Use
 

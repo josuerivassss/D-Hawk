@@ -14,7 +14,7 @@ export default function NotFound() {
         <img className="notfound-mascot" src="/logo-mascot.png" alt="" />
         <h1>Signal lost.</h1>
         <p className="notfound-sub">
-          Commie went looking for this page and came back with nothing but static.
+          Hawk went looking for this page and came back with nothing but static.
           Either it moved, got deleted, or never existed in the first place.
         </p>
         <div className="notfound-actions">

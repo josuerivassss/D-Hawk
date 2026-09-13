@@ -45,8 +45,8 @@ export default function Header({ user }) {
   return (
     <header className={`header ${scrolled ? "header-scrolled" : ""} ${hidden ? "header-hidden" : ""}`}>
       <Link className="brand" to="/">
-        <img src="/logo-mascot.png" alt="Commie logo" />
-        Commie
+        <img src="/logo-mascot.png" alt="Hawk logo" />
+        Hawk
       </Link>
       <nav>
         <NavLink className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`} to="/commands">

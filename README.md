@@ -1,8 +1,8 @@
-# B-Commie Dashboard (React + Vite)
+# B-Hawk Dashboard (React + Vite)
 
-Static frontend for B-Commie: a landing page plus a Discord-OAuth
+Static frontend for B-Hawk: a landing page plus a Discord-OAuth
 dashboard (General, Welcome, Leave, Starboard) that talks entirely to your
-A-Commie API over `fetch()` -- no server-side rendering, no backend of its
+A-Hawk API over `fetch()` -- no server-side rendering, no backend of its
 own. Deployable as pure static files (Vercel, GitHub Pages, or any static
 host).
 

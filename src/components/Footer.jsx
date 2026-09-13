@@ -4,7 +4,7 @@ import { SUPPORT_SERVER_URL } from "../config";
 export default function Footer() {
   return (
     <footer className="site-footer">
-      <span>&copy; {new Date().getFullYear()} Commie</span>
+      <span>&copy; {new Date().getFullYear()} Hawk</span>
       <nav className="footer-links">
         <Link to="/commands">Commands</Link>
         <Link to="/placeholders">Placeholders</Link>

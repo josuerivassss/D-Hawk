@@ -18,7 +18,7 @@ function interpolate(text, params) {
 }
 
 /** Mirrors the bot's own Locale.get(key, **placeholders) pattern
- * (src/bcommie/locale.py): dotted-key lookup + {placeholder} interpolation.
+ * (src/bhawk/locale.py): dotted-key lookup + {placeholder} interpolation.
  * Falls back to DEFAULT_LOCALE for any key missing in the active language
  * -- so a partially-translated new language degrades gracefully instead of
  * showing raw key names everywhere. */

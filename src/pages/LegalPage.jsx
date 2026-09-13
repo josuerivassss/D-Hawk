@@ -18,7 +18,7 @@ const DOCS = {
   terms: { en: termsEn, es: termsEs },
   privacy: { en: privacyEn, es: privacyEs },
 };
-const STORAGE_KEY = "commie:legal-language";
+const STORAGE_KEY = "hawk:legal-language";
 
 function detectDefaultLanguage() {
   try {

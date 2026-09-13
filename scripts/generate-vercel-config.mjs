@@ -13,7 +13,7 @@
 // Run this manually (or as a CI step BEFORE committing) whenever
 // VITE_API_BASE_URL changes, then commit the resulting vercel.json:
 //
-//   VITE_API_BASE_URL=https://api.commie.bot node scripts/generate-vercel-config.mjs
+//   VITE_API_BASE_URL=https://api.hawk.bot node scripts/generate-vercel-config.mjs
 //   git add vercel.json && git commit -m "chore: update CSP connect-src for production API"
 //
 import { readFileSync, writeFileSync } from "node:fs";
@@ -30,7 +30,7 @@ const apiBaseUrl = process.env.VITE_API_BASE_URL;
 if (!apiBaseUrl) {
   console.error(
     "[generate-vercel-config] VITE_API_BASE_URL is not set. Pass it explicitly, " +
-    "e.g.: VITE_API_BASE_URL=https://api.commie.bot node scripts/generate-vercel-config.mjs"
+    "e.g.: VITE_API_BASE_URL=https://api.hawk.bot node scripts/generate-vercel-config.mjs"
   );
   process.exit(1);
 }

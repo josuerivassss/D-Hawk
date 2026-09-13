@@ -84,7 +84,7 @@ export default function GuildPicker() {
         <div className="picker-wrap">
           <h1>Select a server</h1>
           <p className="sub">
-            Servers in color already have Commie &mdash; click one to configure it. Greyed-out servers
+            Servers in color already have Hawk &mdash; click one to configure it. Greyed-out servers
             don&rsquo;t have the bot yet &mdash; click one to invite it there.
           </p>
           {state.error && <div className="flash error">{state.error}</div>}
@@ -92,7 +92,7 @@ export default function GuildPicker() {
             {state.guilds.length === 0 && !state.error && (
               <p className="sub">
                 You don&rsquo;t manage any servers. You need the &ldquo;Manage Server&rdquo; permission to
-                configure Commie somewhere.
+                configure Hawk somewhere.
               </p>
             )}
             {state.guilds.map((guild) => (

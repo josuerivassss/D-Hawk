@@ -135,7 +135,7 @@ function CommandsOverview({ commands, onSelectCategory }) {
     <section className="cmd-overview">
       <h1>Command reference</h1>
       <p className="cmd-overview-sub">
-        Every command Commie understands, grouped by category. Search on the left, or jump straight to a category below.
+        Every command Hawk understands, grouped by category. Search on the left, or jump straight to a category below.
       </p>
       <div className="cmd-overview-grid">
         {categories.map(([name, list]) => {

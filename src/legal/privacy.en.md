@@ -1,6 +1,6 @@
 ## 1. Who We Are
 
-This Privacy Policy describes how Commie ("the Service") and its companion web dashboard ("the Web Service") collect, use, and store information.
+This Privacy Policy describes how Hawk ("the Service") and its companion web dashboard ("the Web Service") collect, use, and store information.
 
 ## 2. Information We Collect
 
