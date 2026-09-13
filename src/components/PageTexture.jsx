@@ -13,7 +13,7 @@ export default function PageTexture() {
             <line x1="205" y1="335" x2="205" y2="351" />
             <line x1="197" y1="343" x2="213" y2="343" />
           </g>
-          <g fill="var(--wine-light)">
+          <g fill="var(--navy-light)">
             <circle cx="300" cy="320" r="2.2" />
             <circle cx="318" cy="320" r="2.2" />
             <circle cx="300" cy="338" r="2.2" />

@@ -28,7 +28,7 @@ export default function HeroPattern() {
 
   return (
     <svg className="hero-pattern" viewBox="0 0 1536 1024" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-      <g opacity="0.45" fill="var(--wine-light)">
+      <g opacity="0.45" fill="var(--navy-light)">
         {dots.map((d, i) => (
           <circle key={i} cx={d.x} cy={d.y} r="2.4" />
         ))}
